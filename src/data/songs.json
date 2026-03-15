@@ -1,0 +1,512 @@
+{
+  "B": [
+    {
+      "id": "810ae206-f450-4b04-a372-4e270a4dff84",
+      "title": "Cambiando de Color",
+      "author": "Cruzando el Charco"
+    },
+    {
+      "id": "7df4b208-6077-4058-a916-0fc3b4da53a6",
+      "title": "El Viejo",
+      "author": "La Vela Puerca"
+    },
+    {
+      "id": "f73db6d9-e997-46c6-bbc6-48b27f3af0d8",
+      "title": "A Veces Vuelvo",
+      "author": "Catupecu Machu"
+    },
+    {
+      "id": "0fa69657-404c-44b7-929f-2e9567dc0d9a",
+      "title": "Campanas en la Noche",
+      "author": "Los Tipitos"
+    },
+    {
+      "id": "d6eaf337-6877-4097-9abd-ea6f03b56d29",
+      "title": "La Leyenda del Hada y el Mago",
+      "author": "Rata Blanca"
+    },
+    {
+      "id": "f90f0e50-6696-4002-8986-4ec27751e753",
+      "title": "Sin Documentos",
+      "author": "Andres Calamaro, Bunbury"
+    },
+    {
+      "id": "1920956d-977a-4e4a-9ecb-7acf0b38eddb",
+      "title": "Te Recuerdo",
+      "author": "JAF"
+    },
+    {
+      "id": "dc692479-5273-4cdc-948e-4c2182c04c85",
+      "title": "50 Horas",
+      "author": "Coti"
+    },
+    {
+      "id": "fbb6040a-ad1c-4f57-81bd-8bfdd476eaea",
+      "title": "Irresponsables",
+      "author": "Babasonicos"
+    },
+    {
+      "id": "004b0988-2838-4ee6-b55d-3209d84ac4fe",
+      "title": "Otra Vuelta de Tuerca",
+      "author": "Las Pastillas del Abuelo"
+    },
+    {
+      "id": "c96b6b82-1c31-48fb-aeb1-8b2d182c27a1",
+      "title": "Un Día Perfecto",
+      "author": "Estelares"
+    },
+    {
+      "id": "ef05412d-b657-488d-9d13-c706f1621965",
+      "title": "No te Apartes de Mí",
+      "author": "Vicentico"
+    },
+    {
+      "id": "99e48fae-e5cd-4562-91e5-275721fc0f50",
+      "title": "Chau",
+      "author": "NTVG, Julieta Venegas"
+    },
+    {
+      "id": "d76f0456-c596-418f-be63-8de7c9934a0f",
+      "title": "El Hombre Puerco",
+      "author": "Airbag"
+    },
+    {
+      "id": "19b38318-8e9a-48d2-be5f-115d355e8ea9",
+      "title": "Sapo de Otro Pozo",
+      "author": "Los Caballeros de la Quema"
+    },
+    {
+      "id": "35af819d-ee17-4872-ae42-928c80f81c01",
+      "title": "5 Minutos Más (Minibar)",
+      "author": "Andrés Calamaro"
+    },
+    {
+      "id": "d8784a17-89b2-4b1d-8267-48565462e8ea",
+      "title": "Seguir Viviendo sin tu Amor",
+      "author": "Luis Alberto Spinetta"
+    },
+    {
+      "id": "85fdbfa7-8967-4bbc-b63f-4a3f7e3d4922",
+      "title": "El Farolito",
+      "author": "Los Piojos"
+    },
+    {
+      "id": "4fa7febc-73e0-4157-9183-43eabdd35784",
+      "title": "Arrancacorazones",
+      "author": "Ataque 77"
+    },
+    {
+      "id": "77bc1050-110a-404d-b870-72e8c4f95776",
+      "title": "Mariposas",
+      "author": "Enanitos Verdes"
+    }
+  ],
+  "I": [
+    {
+      "id": "6939d151-4d1e-436d-8019-547377ec4e76",
+      "title": "El Federal",
+      "author": "La Mona Jimenez"
+    },
+    {
+      "id": "5781d317-c790-4be5-a0cf-4e13c0122667",
+      "title": "De Qué Te Vale",
+      "author": "Sabroso"
+    },
+    {
+      "id": "e1894229-c3d3-49ac-9779-393dd1588633",
+      "title": "Te Amo",
+      "author": "Makano"
+    },
+    {
+      "id": "a51ecff0-cb6b-4214-aaf2-b530819597d3",
+      "title": "Te Pido Perdón",
+      "author": "Banda XXI"
+    },
+    {
+      "id": "d4e2ae50-6b5b-436c-86be-1943f13a794f",
+      "title": "Q'Tal",
+      "author": "Damián Córdoba"
+    },
+    {
+      "id": "d0335be5-d3bb-4b72-9014-0302b665f106",
+      "title": "Intento",
+      "author": "Ulises Bueno"
+    },
+    {
+      "id": "0a2db12b-7293-48bf-8298-e3b3d584490d",
+      "title": "Puño de Diamantes",
+      "author": "Dale Q'Va"
+    },
+    {
+      "id": "b7e4348a-e916-458e-a24b-cb40eaf99503",
+      "title": "La Despedida",
+      "author": "Daddy Yankee"
+    },
+    {
+      "id": "6e112883-b0fb-4461-89fe-c0c625bbcc30",
+      "title": "Kilómetros",
+      "author": "Los Caligaris"
+    },
+    {
+      "id": "295bccc7-5826-45bb-bf10-2930aeffe9e3",
+      "title": "El Embrujo",
+      "author": "Américo, Abel Pintos"
+    },
+    {
+      "id": "ce9230ea-af08-427c-9a7d-c285820d02e8",
+      "title": "Un Montón de Estrellas",
+      "author": "Los Totora"
+    },
+    {
+      "id": "02e99f39-f997-4e8b-9412-4a3ca9cfa1db",
+      "title": "Nunca es Suficiente",
+      "author": "Los Ángeles Azules, Natalia Lafourcade"
+    },
+    {
+      "id": "664905e2-e6f5-44ac-b9fa-255602d120d6",
+      "title": "Una Ráfaga de Amor",
+      "author": "Ráfaga"
+    },
+    {
+      "id": "2de6dc78-449c-423c-889c-1a540b88a01b",
+      "title": "Más que tu Amigo",
+      "author": "Marco Antonio Solís"
+    },
+    {
+      "id": "2be77c6a-83fa-44d7-acae-652a823546a3",
+      "title": "La Carretera",
+      "author": "Prince Royce"
+    },
+    {
+      "id": "3c556182-c853-472b-b1c0-e526e91275f8",
+      "title": "A Puro Dolor",
+      "author": "Emanero, Angel Lopez, Rusherking"
+    },
+    {
+      "id": "c566f5d2-3aee-4e62-a7fe-feea4d44c8e9",
+      "title": "Bandido",
+      "author": "Emanero, Estani, FMK, Rusherking"
+    },
+    {
+      "id": "2f739ddd-6ef0-40f2-aa86-3fed8086ec66",
+      "title": "La Peligrosa",
+      "author": "Emanero, Luciano Pereyra, David Bisbal"
+    },
+    {
+      "id": "5f59b136-e2d6-46cd-a0c7-848eec9805cf",
+      "title": "Amor Clasificado",
+      "author": "Rodrigo"
+    },
+    {
+      "id": "9e6d7f0f-7851-408f-97d9-4de1e0c9a8f9",
+      "title": "Que me Falte Todo",
+      "author": "Luck Ra, Abel Pintos"
+    }
+  ],
+  "N": [
+    {
+      "id": "eb5da03b-3858-4f99-8c00-ead4cd23c17e",
+      "title": "La Camisa Negra",
+      "author": "Juanes"
+    },
+    {
+      "id": "a40ac6e1-f6ed-45be-bc16-a8e6cca2b486",
+      "title": "Las Flores",
+      "author": "Benjamín Amadeo, Los Auténticos Decadentes"
+    },
+    {
+      "id": "c4aabf3b-1af6-48e4-915e-c771dfe07b89",
+      "title": "Todo se Transforma",
+      "author": "Jorge Drexler"
+    },
+    {
+      "id": "92e31fe0-2d0e-4b0a-a9fa-e59581385e26",
+      "title": "Amor Correspondido",
+      "author": "Diego Torres, Santana"
+    },
+    {
+      "id": "6adef629-39e3-4993-b0ec-4604e5505e5f",
+      "title": "Corazón Espinado",
+      "author": "Maná, Santana"
+    },
+    {
+      "id": "600d66ff-a43a-4d6e-bb73-c3b1b0b6dab6",
+      "title": "Corazón",
+      "author": "Los Auténticos Decadentes"
+    },
+    {
+      "id": "ef3fb2ef-50e6-404f-b5d1-f139e31509eb",
+      "title": "Consejo de Amor",
+      "author": "Morat, TINI"
+    },
+    {
+      "id": "a109f684-2e79-442d-8a29-b175b9192ffe",
+      "title": "Besos en Guerra",
+      "author": "Morat, Juanes"
+    },
+    {
+      "id": "ca705c12-e723-45ff-9fe7-49a522380e8d",
+      "title": "La Niña que Llora en tus Fiestas",
+      "author": "La Oreja de Van Gogh"
+    },
+    {
+      "id": "44dfa9a3-4d26-4ea4-ab21-d9afe8c31262",
+      "title": "Pupilas Lejanas",
+      "author": "Los Pericos"
+    },
+    {
+      "id": "21561a44-a689-4b52-87d0-5bf0d83708e7",
+      "title": "Un Poco Perdido",
+      "author": "Tan Biónica, Juanes"
+    },
+    {
+      "id": "9ee5ba26-5f4a-43d3-865d-531d253ed081",
+      "title": "La Flaca",
+      "author": "Juanes, Santana"
+    },
+    {
+      "id": "b28e1b0f-3aa9-49bb-a8e6-7da9f9812008",
+      "title": "Usted",
+      "author": "Diego Torres, Vicentico"
+    },
+    {
+      "id": "6ce8d846-1a54-429d-b466-acfc258138fc",
+      "title": "Esclavo de sus Besos",
+      "author": "David Bisbal"
+    },
+    {
+      "id": "b0009f8e-91e6-4ab5-b2fe-a11064a8b162",
+      "title": "Sentimettal",
+      "author": "Moderatto"
+    },
+    {
+      "id": "b0e2c681-d304-43b9-883c-1e2952bc949d",
+      "title": "Te Está Pasando lo Mismo que a mí",
+      "author": "Marcela Morelo"
+    },
+    {
+      "id": "bc874447-69f4-4893-8a95-67fc895e2220",
+      "title": "Boquitas Pintadas",
+      "author": "Tan Biónica, Nicki Nicole"
+    },
+    {
+      "id": "733c3d18-aca4-4582-bb22-a9f49e2c2955",
+      "title": "Tiempo",
+      "author": "Abel Pintos"
+    },
+    {
+      "id": "5390999f-7ca1-485f-a5b0-3ef3b9599b2a",
+      "title": "Pa' Bailar",
+      "author": "Bajofondo, Julieta Venegas"
+    },
+    {
+      "id": "1026df15-2694-4d12-953d-8154dc95a02d",
+      "title": "La Tortura",
+      "author": "Alejandro Sanz, Shakira"
+    }
+  ],
+  "G": [
+    {
+      "id": "75d2b522-19f2-45c5-a691-7f6487d01e0a",
+      "title": "Have you ever Seen the Rain",
+      "author": "Creedence Clearwater Revival"
+    },
+    {
+      "id": "e174902b-3527-4a39-9a39-4fb117e5882c",
+      "title": "Nothing's Gonna Stop Us Now",
+      "author": "Starship"
+    },
+    {
+      "id": "04548253-96ea-4adc-b0f9-f97f6f3fc9b2",
+      "title": "Just the Way you Are",
+      "author": "Bruno Mars"
+    },
+    {
+      "id": "4acc86c6-6b65-4e60-889a-c41a009748ff",
+      "title": "Hotel California",
+      "author": "EAGLES"
+    },
+    {
+      "id": "95090ab7-aa22-43d4-a7ce-069ec604dbd6",
+      "title": "Can't Help Falling in Love",
+      "author": "Elvis Presley"
+    },
+    {
+      "id": "8ca9616d-9429-427c-8261-b86fa903ee0f",
+      "title": "Waiting For Love",
+      "author": "Avicii"
+    },
+    {
+      "id": "61797cb0-a00b-474c-855d-5cdee18a1039",
+      "title": "How Deep is your Love",
+      "author": "Bee Gees"
+    },
+    {
+      "id": "0c8993ed-92f5-4519-9613-3267e60dcaa8",
+      "title": "Dancing Queen",
+      "author": "ABBA"
+    },
+    {
+      "id": "41c93e2c-6100-40a6-85ee-813dcbc1b219",
+      "title": "I Want it that Way",
+      "author": "Backstreet Boys"
+    },
+    {
+      "id": "422854b4-2243-4c98-8185-3b1738b2fe15",
+      "title": "Take on Me",
+      "author": "A-ha"
+    },
+    {
+      "id": "5ffcebff-7978-48ac-beb6-dfec6e5b6ac2",
+      "title": "It's a Heartache",
+      "author": "Rod Stewart"
+    },
+    {
+      "id": "98581f8e-0773-4c1c-ba93-c2aa09d9011f",
+      "title": "You Give Love a Bad Name",
+      "author": "Bon Jovi"
+    },
+    {
+      "id": "bacbc435-ae15-41db-9ae7-7065baf8e43f",
+      "title": "I'm Still Standing",
+      "author": "Elton John"
+    },
+    {
+      "id": "7759f539-15f5-4540-8459-1516d1a5c575",
+      "title": "House of Memories",
+      "author": "Panic! At The Disco"
+    },
+    {
+      "id": "5a90fdea-73eb-4343-bddc-3de67a39ee54",
+      "title": "Sway",
+      "author": "Michael Bublé"
+    },
+    {
+      "id": "262d9b9f-c306-47dc-acaf-fd5aeb99a966",
+      "title": "Hold the Line",
+      "author": "TOTO"
+    },
+    {
+      "id": "ee3d6fb3-8c55-45d9-8856-030cc317f68e",
+      "title": "Numb",
+      "author": "Linkin Park"
+    },
+    {
+      "id": "f0d61fc3-badc-4dc5-b379-57e27f2e5090",
+      "title": "Bad Romance",
+      "author": "Lady Gaga"
+    },
+    {
+      "id": "d3245634-5e0e-470c-a157-d7e793db5fb9",
+      "title": "Lovers on the Sun",
+      "author": "David Guetta"
+    },
+    {
+      "id": "a68cdb1b-e8bb-4793-bb48-f030f9ca821c",
+      "title": "Warriors",
+      "author": "Imagine Dragons"
+    }
+  ],
+  "O": [
+    {
+      "id": "2916363c-1d86-42de-98b4-254771a581cf",
+      "title": "Baby One More Time",
+      "author": "Jack Black, Tenacius D [Kung Fu Panda 4]"
+    },
+    {
+      "id": "f401654f-e3b6-4eb5-a853-a304f1c46a94",
+      "title": "Sigo Aquí",
+      "author": "Alex Ubago [El Planeta del Tesoro]"
+    },
+    {
+      "id": "9af64a05-38bb-4a76-80fa-bc2a11f09d51",
+      "title": "All Star",
+      "author": "Smash Mouth [Shrek]"
+    },
+    {
+      "id": "7ef7eb69-9a70-450b-92dd-43401822ceb7",
+      "title": "Golden",
+      "author": "HUNTR/X [K-Pop Demon Hunters]"
+    },
+    {
+      "id": "b5dbeaa4-30d7-48e1-ba29-3f3dfb349ef4",
+      "title": "Life is a Highway",
+      "author": "Rascal Flatts [Cars]"
+    },
+    {
+      "id": "612c4c7d-3a3b-4913-a9a1-9a6e7b29bb39",
+      "title": "I See Fire",
+      "author": "Ed Sheeran [The Hobbit]"
+    },
+    {
+      "id": "50b2c046-c192-4e8e-b2c5-599854dd786d",
+      "title": "Life Cloud be a Dream",
+      "author": "Street Corner Renaissance [Cars]"
+    },
+    {
+      "id": "45e7e3c0-b883-431c-8126-048a4a030d69",
+      "title": "Game of Thrones (Main Theme)",
+      "author": "Game of Thrones"
+    },
+    {
+      "id": "bd2cbbc0-4a84-4045-bd95-3145b63f928c",
+      "title": "What Could Have Been",
+      "author": "Sting, Ray Chen [Arcane]"
+    },
+    {
+      "id": "926c3d14-86d6-486e-99b4-08aeba397be6",
+      "title": "Veo en ti la Luz",
+      "author": "Chayanne, Danna Paola [Enredados]"
+    },
+    {
+      "id": "089b9379-1e43-4cab-a209-61b8655ce42d",
+      "title": "Feel It",
+      "author": "d4vd [Invincible]"
+    },
+    {
+      "id": "40c3e0f1-902d-45d3-92ac-7cd19f2db6a6",
+      "title": "From Now On",
+      "author": "Hugh Jackman [The Greatest Showman]"
+    },
+    {
+      "id": "03892e63-19e2-4cd1-abcc-ff1372b116ad",
+      "title": "City of Stars",
+      "author": "Ryan Gosling, Emma Stone [La La Land]"
+    },
+    {
+      "id": "c1472393-3027-4bff-8a9a-b73f13a405d8",
+      "title": "Le Festin",
+      "author": "Camile, Michael Giacchino [Ratatouille]"
+    },
+    {
+      "id": "ae4cb4ea-0db3-465c-abe4-5b11d3615003",
+      "title": "En mi Corazón Vivirás",
+      "author": "Phil Collins [Tarzán]"
+    },
+    {
+      "id": "858d5132-6285-4a26-a9e1-124fa70d6ded",
+      "title": "Hombres de Acción",
+      "author": "Cristian Castro [Mulán]"
+    },
+    {
+      "id": "184df532-136d-4259-a236-206186347414",
+      "title": "A Thousand Miles",
+      "author": "Vanessa Carlton [Y dónde están las rubias]"
+    },
+    {
+      "id": "ae63a538-3f43-473b-8b03-fa5b6e6bb1bc",
+      "title": "Lo Extraño que Soy",
+      "author": "Phil Collins [Tarzán]"
+    },
+    {
+      "id": "f832c10e-c08c-43e8-92df-424068feb2e1",
+      "title": "Gravity Falls",
+      "author": "Intro"
+    },
+    {
+      "id": "abcf3100-099d-474b-9ae6-df07cc578da1",
+      "title": "Star Wars",
+      "author": "Main Theme"
+    }
+  ]
+}
